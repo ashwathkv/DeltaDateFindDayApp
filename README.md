@@ -1,0 +1,2 @@
+# DeltaDateFindDayApp
+This app is similar to a quiz app, where the question is a randomly generated date and 4 options are given that are randomly generated days of the week. If the user selects the correct option and clicks the check button, the score increases by 1 and he/she is provided with a new date and new set of options. If the user selects the wrong option, then the game finishes by taking the user to a different activity showing a congratulation message and the final score of the user. I have added a zip file of the app contents here.
